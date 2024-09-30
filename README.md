@@ -10,12 +10,13 @@
 
 ## Screenshots of Launch Screen, Sign-In Screen and Sign-Up Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51b0068f-9ada-4413-8018-fd5259547781" width="200" />
+  <img src="https://github.com/user-attachments/assets/ec5001c5-5754-41f1-a83f-5e62f2a2ea10" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/847c2fd6-88a1-4504-a90f-a07952fc6ece" width="200" />
+  <img src="https://github.com/user-attachments/assets/b3729ea3-4196-43b3-9a03-33b939adece4" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/db2e084e-6eb1-48af-afcd-edf68b652823" width="200" />
+  <img src="https://github.com/user-attachments/assets/825acaaf-7877-49f5-a553-e86c6385e86a" width="200" />
 </p>
+
 
 ## Screenshots of the App:
 <p align="center">
