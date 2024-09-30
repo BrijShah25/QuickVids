@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 100px">
-  <b>Overview Video of Quickvids App:</b>
+<p align="center" style="font-size: 24px;">
+  Overview Video of Quickvids App:
 </p>
   
 <p align="center">
