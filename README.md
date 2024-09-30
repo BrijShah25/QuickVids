@@ -1,6 +1,9 @@
 ## Overview Video of Quickvids App:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d98ef248-ff51-4cfe-9722-7e6a2180a40f" width="300" />
+  <video width="320" height="240" controls>
+    <source src="https://github.com/user-attachments/assets/36a7f98d-a91f-4668-a607-afe47bb614b2" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ## Screenshots of Launch Screen, Sign-In Screen and Sign-Up Screen
