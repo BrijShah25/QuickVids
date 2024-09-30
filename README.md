@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px">
+<p align="center" style="font-size: 100px">
   <b>Overview Video of Quickvids App:</b>
 </p>
   
