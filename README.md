@@ -1,6 +1,17 @@
-<p align="center" style="font-size: 24px;">
-  Overview Video of Quickvids App:
-</p>
+<head>
+  <style>
+    .large-text {
+      font-size: 32px;
+      font-weight: bold;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <p class="large-text">Overview Video of Quickvids App:</p>
+</body>
+
   
 <p align="center">
   <a href="https://github.com/user-attachments/assets/bcd6b9ff-6071-4a51-95f5-a8e82233aa38" target="_blank">
