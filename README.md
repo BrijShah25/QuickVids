@@ -2,7 +2,6 @@
 <p align="center">
   <video width="320" height="240" controls>
     <source src="https://github.com/user-attachments/assets/36a7f98d-a91f-4668-a607-afe47bb614b2" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 </p>
 
