@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" style="font-size: 24px;">
   <b>Overview Video of Quickvids App:</b>
-  </p>
+</p>
   
 <p align="center">
   <a href="https://github.com/user-attachments/assets/bcd6b9ff-6071-4a51-95f5-a8e82233aa38" target="_blank">
@@ -14,9 +14,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/b3729ea3-4196-43b3-9a03-33b939adece4" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/825acaaf-7877-49f5-a553-e86c6385e86a" width="200" />
+  <img src="https://github.com/user-attachments/assets/971c33b4-7fdb-42a6-8f98-1661758ee4b7" width="200" />
 </p>
-
 
 ## Screenshots of the App:
 <p align="center">
