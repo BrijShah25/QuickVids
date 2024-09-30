@@ -1,4 +1,7 @@
-## Overview Video of Quickvids App:
+<p align="center">
+  ## Overview Video of Quickvids App:
+  </p>
+  
 <p align="center">
   <a href="https://github.com/user-attachments/assets/bcd6b9ff-6071-4a51-95f5-a8e82233aa38" target="_blank">
     Watch the video
