@@ -1,16 +1,7 @@
-<head>
-  <style>
-    .large-text {
-      font-size: 32px;
-      font-weight: bold;
-      text-align: center;
-    }
-  </style>
-</head>
+<p align="center">
+  <b style="font-size:24;">Overview Video of Quickvids App:</b>
+</p>
 
-<body>
-  <p class="large-text">Overview Video of Quickvids App:</p>
-</body>
 
   
 <p align="center">
