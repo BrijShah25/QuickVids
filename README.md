@@ -1,5 +1,5 @@
 <p align="center">
-  Overview Video of Quickvids App:
+  <b>Overview Video of Quickvids App:</b>
   </p>
   
 <p align="center">
