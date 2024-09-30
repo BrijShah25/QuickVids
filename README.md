@@ -1,7 +1,5 @@
 ## Overview Video of Quickvids App:
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/36a7f98d-a91f-4668-a607-afe47bb614b2" width="200" />
-</p>
+https://github.com/user-attachments/assets/bcd6b9ff-6071-4a51-95f5-a8e82233aa38
 
 ## Screenshots of Launch Screen, Sign-In Screen and Sign-Up Screen
 <p align="center">
