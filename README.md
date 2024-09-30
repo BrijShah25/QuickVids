@@ -20,13 +20,12 @@
 
 ## Screenshots of the App:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61fe1fc6-7770-4f1e-ba3c-60c813263db3" width="200" />
+  <img src="https://github.com/user-attachments/assets/0b77caa0-b228-47e0-bdc5-4269249d874c" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6f35080b-5a00-4ae2-9a9f-7c9e354db2f3" width="200" />
+  <img src="https://github.com/user-attachments/assets/62e6b64f-5657-49d5-a2b3-43a3945a010a" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9a5c1ec9-24b9-4c5b-8445-e26d9feb2cec" width="200" />
+  <img src="https://github.com/user-attachments/assets/132851e3-9bf2-4d7e-8d04-cf3e0d785cf8" width="200" />
 </p>
-
 
 
 
