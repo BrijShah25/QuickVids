@@ -1,7 +1,8 @@
 ## Clink the link below to See the Overview of Quickvids App:</b>
 <br></br>  
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/0a5cd763-ed9f-4e0f-bfea-d5ec47546901" target="_blank">
+  <a href="https://github.com/user-attachments/assets/9b683a0a-64ee-48c8-aab8-7ceebc304580
+" target="_blank">
     Watch the video
   </a>
 </p>
