@@ -1,7 +1,7 @@
 ## Clink the link below to See the Overview of Quickvids App:</b>
 <br></br>  
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/725676be-ea11-44ab-a8ae-86b110ccbd84" target="_blank">
+  <a href="https://github.com/user-attachments/assets/0a5cd763-ed9f-4e0f-bfea-d5ec47546901" target="_blank">
     Watch the video
   </a>
 </p>
@@ -9,21 +9,18 @@
 
 ## Screenshots of Launch Screen, Sign-In Screen and Sign-Up Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec5001c5-5754-41f1-a83f-5e62f2a2ea10" width="200" />
+  <img src="https://github.com/user-attachments/assets/93985f5d-94a7-4eb8-b7cc-53b32fcc8fbe" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/b3729ea3-4196-43b3-9a03-33b939adece4" width="200" />
+  <img src="https://github.com/user-attachments/assets/6784bd7d-b3d4-4bb6-8b94-c185c7771517" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/971c33b4-7fdb-42a6-8f98-1661758ee4b7" width="200" />
+  <img src="https://github.com/user-attachments/assets/47344e68-6c50-4f24-ab80-4e935e77b28e" width="200" />
 </p>
 
 ## Screenshots of the App:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b77caa0-b228-47e0-bdc5-4269249d874c" width="200" />
+  <img src="https://github.com/user-attachments/assets/8d1d854a-1c5d-4051-9c87-4ea7a3e9a753" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/62e6b64f-5657-49d5-a2b3-43a3945a010a" width="200" />
+  <img src="https://github.com/user-attachments/assets/5b8b1915-bd1f-4e0f-a7c6-3a5069c14cc7" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/132851e3-9bf2-4d7e-8d04-cf3e0d785cf8" width="200" />
+  <img src="https://github.com/user-attachments/assets/195dc02d-f16d-45b6-9ddb-ae80e65fc51a" width="200" />
 </p>
-
-
-
